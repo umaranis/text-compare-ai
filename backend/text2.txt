@@ -1,0 +1,487 @@
+CRICOS Provider No. 00103D | RTO Code 4909 | TEQSA PRV12151 (Australian University) fdlGrades UD_ITECH1102_2023/072023-08-08 11:39:47 1 /14
+Course Description (Higher Education)
+Institute / School: Institute of Innovation, Science & Sustainability
+Course Title NETWORKING AND SECURITY
+Course ID ITECH1102
+Credit Points 15.00
+Teaching Period 2023/07
+Course Coordinator Muhammad Imran
+Pre-requisite(s) Nil
+Co-requisite(s) Nil
+Exclusion(s) Nil
+ASCED Code 020113
+Brief Description of the Course
+In this course, we will cover the fundamentals of networking through analysis of the Open System
+Interconnection (OSI) and Internet networking models. Students will learn the role of each model layer and the
+technologies used to provide end-to-end
+connectivity between computer systems and the associated networking protocols. The course will also
+introduce cloud computing and investigate the role of cybersecurity in securing information systems and the
+impacts of threats to individual
+persons and society as well as ethical and legal considerations. The role of personnel and encryption to secure
+Internet communications will also be studied.
+The course also contains a hurdle task which requires students to get involved with their local IT
+community through attendance and participation in events, such as seminars, workshops, expos,
+discussion forums etc. The aim is to provide students with a broad understanding of the IT industry, its
+research foundations and its place in servicing society.
+Grade Scheme Graded (HD, D, C, P, MF, F)
+Placement Component No
+Supplementary Assessment Yes
+Where supplementary assessment is available a student must have failed overall in the course but gained a
+ﬁnal mark of 45 per cent or above and submitted all major assessment tasks.CRICOS Provider No. 00103D | RTO Code 4909 | TEQSA PRV12151 (Australian University) fdlGrades UD_ITECH1102_2023/072023-08-08 11:39:47 2 /14
+Course Description (Higher Education)
+ITECH1102
+Program Level
+Level of course in programAQF Level(s) of Program
+5 6 7 8 9 10
+Introductory
+Intermediate
+Advanced
+Organisation
+Delivery Mode
+Regular semester
+Structure
+The course will be delivered as a 2-hour lecture, followed by a 2-hour lab session.
+Staff
+Role Name Email contact Oﬃce/location Telephone
+Lecturer Nityansh Rattan nrattan@atmc.edu.au
+Course Coordinator Muhammad Imran m.imran@federation.edu.au
+Type Day Time Room Staﬀ / Comment
+Lecture Wednesday 08:30 AEDT 2.01,Level 2 Rattan Nityansh
+Tutorial Wednesday 10:30 AEDT 2.01,Level 2 Rattan Nityansh
+Lecture Monday 13:30AEDT 6.02,Level 6 Rattan Nityansh
+Tutorial Monday 10:30AEDT 6.01,Level 6 Rattan Nityansh
+Lecture Tuesday 08:30 AEDT 6.02,Level 6 Rattan Nityansh
+Tutorial Tuesday 10:30 AEDT 6.02,Level 6 Rattan Nityansh
+Timetables are subject to change and students are encouraged to check with timetabling and the Moodle shell
+for updates.
+Learning Outcomes
+After successfully completing this course, students should be able to:
+Knowledge
+K1. Identify and explain the role and function of network connectivity in current computing.
+K2. Describe and explain the principles of communication in networks and the fundamental aspects of cloud
+computing.
+K3. Describe the role and functionality of hardware and software entities that contribute to network
+communications.
+K4. Explain the protocols and interactions that implement network communications.CRICOS Provider No. 00103D | RTO Code 4909 | TEQSA PRV12151 (Australian University) fdlGrades UD_ITECH1102_2023/072023-08-08 11:39:47 3 /14
+Course Description (Higher Education)
+ITECH1102
+K5. Explain the critical role of cyber security in securing communication systems in terms of impacts or
+threats to society and individuals as well as ethical and legal considerations. 
+Skills
+S1. Use a variety of network services and tools to conﬁgure network settings on various network devices
+and operating systems.
+S2. Interpret security needs of information systems in various organisational contexts.
+S3. Examine and conﬁgure network settings on various network devices and operating systems.
+Application of knowledge and skills
+A1. Analyse the networking architecture needs of a business or an organisation.
+A2. Apply knowledge of security policies to reduce security threats.
+A3. Plan and implement operational assurance programs from a security perspective.
+A4. Analyse cryptographic techniques for data security.
+Content
+Topics may include:
+Introduction to data communications networks, network models and protocol architecture.
+IP addresses, subnet masks and the number systems used to describe them.
+Fundamentals of architectures at the application layer, common Internet based applications.
+Transmission media and their characteristics, guided and wireless media, media selection, digital and
+analog transmission of digital and analog data.
+Functions of data link layer, media access control, data link layer addressing, ﬂow and error control
+mechanisms, data link protocols.
+Network layer protocols: Internet Protocol (IP), assigning IP addresses, address resolution, routing
+protocols, multicasting.
+Transport layer protocols: Transmission Control Protocol (TCP) and User Datagram Protocol (UDP)
+transport layer functions, reliable and unreliable services, ports, linking to the application layer,
+segmentation, session management.
+Introduction to Local Area Networks (LAN), LAN components, Ethernet and Token Ring, LAN design
+consideration, Wireless LAN, Wide Area Networks (WAN).
+Cloud computing fundamentals, Cloud security models and the advantages and disadvantages of cloud
+computing.CRICOS Provider No. 00103D | RTO Code 4909 | TEQSA PRV12151 (Australian University) fdlGrades UD_ITECH1102_2023/072023-08-08 11:39:47 4 /14
+Course Description (Higher Education)
+ITECH1102
+Security requirments, including conﬁdentiality, integrity and availability.
+Security threats to Enterprise Networks.
+Common security countermeasures; cryptography and other network security technologies.
+Using operating system and Industry standard networking and security tools including Virtualization tools
+and protocol analysers.
+IT and related industry activity and research developments in the local community, and around the globe;
+ACS’s CBOK, SFIA and their relationship with the networking industry; Career pathways.
+ 
+FEDTASKS
+Federation University recognises that students require key transferable employability skills to prepare them for
+their future workplace and society. FEDTASKS ( Transferable Attributes Skills and Knowledge) provide a
+targeted focus on ﬁve key transferable Attributes, Skills, and Knowledge that are be embedded within
+curriculum, developed gradually towards successful measures and interlinked with cross-discipline and Co-
+operative Learning opportunities. One or more FEDTASK, transferable Attributes, Skills or Knowledge must be
+evident in the speciﬁed learning outcomes and assessment for each FedUni course, and all must be directly
+assessed in each program.
+FEDTASK and descriptorDevelopment and acquisition of
+FEDTASKs in the course
+Learning
+Outcomes
+(KSA)Assessment task
+(AT#)
+FEDTASK 1
+InterpersonalStudents will demonstrate the ability to eﬀectively
+communicate, interact and work with others both individually
+and in groups. Students will be required to display skills in-
+person and/or online in:
+• Using eﬀective verbal and non-verbal communication
+• Listening for meaning and inﬂuencing via active listening
+• Showing empathy for others
+• Negotiating and demonstrating conﬂict resolution skills
+• Working respectfully in cross-cultural and diverse teams.Not applicable Not applicable
+FEDTASK 2
+LeadershipStudents will demonstrate the ability to apply professional skills
+and behaviours in leading others. Students will be required to
+display skills in:
+• Creating a collegial environment
+• Showing self -awareness and the ability to self-reﬂect
+• Inspiring and convincing others
+• Making informed decisions
+• Displaying initiativeNot applicable Not applicable
+FEDTASK 3
+Critical  Thinking
+and  CreativityStudents will demonstrate an ability to work in complexity and
+ambiguity using the imagination to create new ideas. Students
+will be required to display skills in:
+• Reﬂecting critically
+• Evaluating ideas, concepts and information
+• Considering alternative perspectives to reﬁne ideas
+• Challenging conventional thinking to clarify concepts
+• Forming creative solutions in problem solvingS2, S3, A1 AT1, AT2CRICOS Provider No. 00103D | RTO Code 4909 | TEQSA PRV12151 (Australian University) fdlGrades UD_ITECH1102_2023/072023-08-08 11:39:47 5 /14
+Course Description (Higher Education)
+ITECH1102
+FEDTASK and descriptorDevelopment and acquisition of
+FEDTASKs in the course
+Learning
+Outcomes
+(KSA)Assessment task
+(AT#)
+FEDTASK 4
+Digital LiteracyStudents will demonstrate the ability to work ﬂuently across a
+range of tools, platforms and applications to achieve a range of
+tasks. Students will be required to display skills in:
+• Finding, evaluating, managing, curating, organising and
+sharing digital information
+• Collating, managing, accessing and using digital data securely
+• Receiving and responding to messages in a range of digital
+media
+• Contributing actively to digital teams and working groups
+• Participating in and beneﬁting from digital learning
+opportunitiesS3 AT1
+FEDTASK 5
+Sustainable  and
+Ethical  MindsetStudents will demonstrate the ability to consider and assess the
+consequences and impact of ideas and actions in enacting
+ethical and sustainable decisions. Students will be required to
+display skills in:
+• Making informed judgments that consider the impact of
+devising solutions in global economic environmental and
+societal contexts
+• Committing to social responsibility as a professional and a
+citizen
+• Evaluating ethical, socially responsible and/or sustainable
+challenges and generating and articulating responses
+• Embracing lifelong, life-wide and life-deep learning to be open
+to diverse others
+• Implementing required actions to foster sustainability in their
+professional and personal life.A3 AT1
+Planned Student Learning
+A 15-credit point course typically involves a minimum of 150 hours of learning, that may include scheduled
+(timetabled) and unscheduled, ﬂexible and self-paced activities. The scheduled hours of student learning will be
+experienced primarily through on-campus and/or online engagement opportunities with peers and teaching
+staﬀ. For approximately every hour of scheduled or directed activity, a minimum of two hours of student
+directed learning is expected.
+Unscheduled, ﬂexible and self-paced activities do not require a set day, time or location and require students to
+work independently. These will include established learning activities, associated independent learning,
+background reading/research and completion of assessment. Students are expected to access electronic
+research databases and use computers to facilitate their learning.
+Learning Activity Description Hours
+Attend/watch lectures and laboratoriesStudents should attend/watch weekly lectures
+and laboratory sessions.48
+Independent study outside formal lectures and
+laboratoriesStudents should spend at least 1.5 hours per
+week reviewing lecture slides, reviewing or
+redoing lab exercises, and independently
+investigating topics covered in weekly material
+from the Internet or the recommended
+references.15
+Practice laboratory sessions to prepare for
+midsemester testStudents should review and thoroughly
+understand all lab tasks from weeks 1 - 6.10CRICOS Provider No. 00103D | RTO Code 4909 | TEQSA PRV12151 (Australian University) fdlGrades UD_ITECH1102_2023/072023-08-08 11:39:47 6 /14
+Course Description (Higher Education)
+ITECH1102
+Learning Activity Description Hours
+Preparation for mid-semester testThis task will cover the material presented in
+lectures and laboratories from weeks 1 - 7. The
+questions will test the understanding of all
+material covered in previous weeks.20
+Development of Network Planning Assignment.Students need to engage strongly with the
+course content from weeks 1 to 7 in order to
+develop their Network planning assignment. This
+will involve close examination and
+understanding of the lecture and laboratory
+material as well as investigation of associated
+material from the Internet and networking
+reference books.27
+Preparation for end of semester test/examStudents need to review all material presented
+in lectures and labs from weeks 1 - 12. This task
+covers all material presented throughout the
+semester, and students need to ensure that they
+have fully comprehended the theoretical and
+practical aspects of all topics covered in weeks 1
+- 12.30
+Total: 150
+Learning Tasks and Assessment
+Learning outcomes
+assessedAssessment Task Assessment Type
+K1, K2, K3, K4, K5, S1,
+S2, S3, A1, A2, A3, A4Students will utilise their knowledge of networking
+protocols and security techniques to answer conceptual
+questions and apply their understanding to practical
+networking and security problems.Assignments and
+laboratory tasks
+K1, K2, K3, K4, K5, S1,
+S2, S3, A2Practical problems designed to test their understanding of
+networking concepts and protocols in the lab.Practical lab work
+K1, K2, K3, K4, K5, A1,
+A2, A4Students will provide theoretical answers and work out
+solutions to a range of networking and security questions.Final Examination
+The following tasks will be graded.
+Task Released Due Weighting
+Lab Tasks (weeks 2 - 4) Week 2 Fri, Mar 31, 2023 - 17:00 (Week 5) 6.0%
+Lab Tasks (weeks 5 - 6 and 9 -
+11)Week 5 Fri, May 19, 2023 - 16:00 (Week 11) 9.0%
+Network Planning Assignment Week 3 Sun, May 21, 2023 - 23:59 (Week 11) 25.0%
+Mid Semester Test Week 8 In timetabled lecture (Week 8) 20.0%
+End of Semester Test/Exam Final test period End of ﬁnal test period 40.0%
+Final theory test
+The ﬁnal test in this course will take place in the end of term ﬁnal test period. It will be 120 minutes in duration.
+Open Book assessmentCRICOS Provider No. 00103D | RTO Code 4909 | TEQSA PRV12151 (Australian University) fdlGrades UD_ITECH1102_2023/072023-08-08 11:39:47 7 /14
+Course Description (Higher Education)
+ITECH1102
+Laboratory Tasks : Students are required to complete set computing, networking and security tasks during
+laboratory sessions of that particular lab. Upon completing the tasks, students get
+marks allocated for those tasks in the lab. The students need to be present in the lab to receive the marks. The
+tasks are designed to help students understand the material covered in lectures by interaction with computing
+systems. These tasks relate to learning outcomes K1, K4, K5, S1 - S3, and A1 - A4.
+Network Planning Assignment : This is an individual assignment. Students are required to develop an IP
+network plan for the scenario given in the Assignment speciﬁcation. Students must analyse the lecture material,
+solve any given problem, research associated concepts and technologies and develop a coherent network plan
+for the given scenario. These tasks relate to learning outcomes K1, K2, K3, K4, and A1.
+Mid-Semester Test : This task requires students to undertake a test. The test will examine the understanding
+of the concepts covered in the past weeks. Questions might cover the material covered in the lecture and labs
+until Week 7. This test assesses learning outcomes K1 - K5, S1 - S3, and A1 - A4.
+End of Semester Test/Exam : This task will test the understanding and application of knowledge and skills,
+covered throughout the semester. Learning outcomes examined could include K1 - K5, S1 - S3, and A1 - A4.
+ 
+Submission and Return of Student Work
+Marks for all the tasks will be available on Moodle/fdlgrades - 2 weeks after the deadline of the task found in this
+course description.
+ 
+Assessment Criteria
+In order to receive a passing grade in this course, students must receive an overall passing mark in the
+combined result of all assessment tasks.
+Topics Assessed
+All topics covered during this course are subject to assessment.
+Academic Integrity
+Academic integrity is behaving honestly, responsibly and respectfully in our academic endeavours. We
+demonstrate integrity in our study by producing our own, original work and by properly acknowledging when we
+use the work of others to inform ours. Whether accidental or deliberate, using the work of others without
+acknowledgement constitutes a breach of academic integrity. Other forms of cheating include but are not
+limited to collusion, plagiarism and using free or paid services to produce academic work, which is known as
+contract cheating. 
+The Academic Integrity Module (AIM) introduces you to the skills you need to demonstrate academic integrity,
+such as referencing and paraphrasing. All students at Federation University are required to complete AIM prior
+to submitting their ﬁrst assessment task in their program of study. Refer to the following:
+Academic Integrity Module (AIM)
+Academic Integrity PolicyCRICOS Provider No. 00103D | RTO Code 4909 | TEQSA PRV12151 (Australian University) fdlGrades UD_ITECH1102_2023/072023-08-08 11:39:47 8 /14
+Course Description (Higher Education)
+ITECH1102
+Study Skills website: Academic integrity
+Assistance with study skills and assessment
+The Federation University Study Skills website contains practical advice on improving your reading and writing
+skills, paraphrasing and referencing, and time management. It also provides advice about learning technology
+and connecting with Student Academic Leaders and Learning Skills Advisors to support your academic skill
+development.
+Study Skills for Life
+Assistance with Online Submission
+Students are often asked to submit assignments online, mostly through the course Moodle shell. You may be
+required to submit via Turnitin, which is similarity-checking software. Diﬃculty with online submission can have
+numerous causes, such as not completing the Academic Integrity Module (AIM – see above); unreliable internet
+connection; or an oversized ﬁle. If you experience diﬃculties ensure you have completed AIM, and refer to the
+following guides about online submission:
+Study Skills website  (Assignment Submission)
+About Turnitin
+Late Assignment
+Late submission of assessment tasks, without a granted Discretionary Extension  from the Course Coordinator or
+an approved Special Consideration , will attract a late penalty. All reasonable attempts must be made in
+submitting each assessment task.
+The University-wide late penalty is 5% per day of the total marks available (including weekends and public
+holidays).
+Marking will cease after 7 days and the assessment will be scored at zero. If an assessment task is submitted
+beyond 7 days and receives zero, feedback provision is at the discretion of the Course Coordinator.
+For more information regarding late penalties,please see here.
+Special Consideration
+If students are adversely aﬀected by life circumstances a discretionary assessment extension of up to ﬁve
+University working days for one assessment task may be granted at the discretion of the tutor, lecturer, or
+course coordinator (dependent on school process) upon a direct request by the student via the Discretionary
+Assessment Extension form. If, however, a student has experienced or encountered some form of disadvantage
+or impediment (medical reasons; hardship/trauma; compassionate grounds; other signiﬁcant cause) in more
+than one course and requires more than ﬁve working days’ extension, then they are advised to apply for Special
+Consideration. For further information on Discretionary Assessment Extensions and Special Consideration,
+including access to the policy, procedures or associated forms,
+see http://federation.edu.au/current-students/essential-info/administration/special-consideration   
+ResultsCRICOS Provider No. 00103D | RTO Code 4909 | TEQSA PRV12151 (Australian University) fdlGrades UD_ITECH1102_2023/072023-08-08 11:39:47 9 /14
+Course Description (Higher Education)
+ITECH1102
+Results from your assessments are available on your course Moodle site and can be viewed in
+fdlmarks. Information on how to access your results and academic transcripts .
+Final Grade Appeal
+Under some circumstances, a student may appeal the ﬁnal grade of their course. They need to be able to show
+that the course description was not clear or that the delivery of the course did not match the course description.
+An appeal should be submitted in writing to the Executive Dean of the Institute responsible for the course within
+10 working days* of the oﬃcial publication of the grade. Information can be found
+at https://federation.edu.au/current-students/assistance-support-and-services/student-support-services/student-
+advisory-service/appeals/appeal-ﬁnal-grade
+Academic Regulations
+Supplementary information concerning teaching, learning, and assessment may be provided from time to time
+in response to unforeseen circumstances. This may include changes in times or location of classes, order of the
+schedule or due dates for assignments. Announcement of these matters in classes and placement of a notice on
+the course Moodle page shall be deemed to be oﬃcial notiﬁcation. Federation University has a range of
+educational policies, procedures and guidelines, which you can ﬁnd at
+http://policy.federation.edu.au/category_list.php?catalogue_id=115
+Student Support
+The University provides many services to help you gain the most from your studies. You can see the list of
+Student support services at https://federation.edu.au/current-students#Assistance_support_and_services
+The Disability and Learning Access Unit (DLAU) makes reasonable adjustments to study requirements for
+students with a disability, medical or mental health condition. This can be a temporary or permanent condition.
+The DLAU can also organise adjustments for people who are caring for someone with a disability.
+See https://federation.edu.au/current-students/assistance-support-and-services/student-support-services/disabili
+ty-support
+Learning Management System
+This course makes use of Moodle to support your learning. You can access Moodle from the Federation
+University home page or at https://moodle.federation.edu.au/login/index.php  If you do not have access for this
+course you should notify your course co-ordinator immediately
+Final Test Eligibility
+To be eligible to sit for the ﬁnal test a student must have undertaken and submitted at least one prior
+assessment task (worth more than 10%) for this Course.
+Materials
+General
+All topics covered in ITECH1102 are treated in detail on the Internet. Students will ﬁnd Internet resources
+particularly useful when analysing the course material and when preparing for assessments.
+Students may also like to setup VirtualBox and the associated Linux image so they can become acquainted withCRICOS Provider No. 00103D | RTO Code 4909 | TEQSA PRV12151 (Australian University) fdlGrades UD_ITECH1102_2023/072023-08-08 11:39:47 10 /14
+Course Description (Higher Education)
+ITECH1102
+Linux and associated Linux commands outside formal lectures and labs. This is particularly important
+(mandatory) for students undertaking the course on-line.
+The main reference (Fitzgerald) is a useful resource however by no means is required for students to successful
+complete the course. Multiple copies of the reference should be available in campus libraries.
+Reading
+Textbooks
+NIL.
+References:
+James Kurose; Keith Ross. (2019). Computer Networking: A Top-Down Approach.  Pearson. ISBN:
+978-1292153599
+FitzGerald, Dennis & Durcikova . (2017). Business Data Communications and Networking.  Wiley. ISBN:
+978-1118891681
+Bezencon, Hahnen, Pavlovic, Grubbs & Jenkins. Linux Lite - Help Manual.  Retrieved 17/11/2020, from
+https://www.linuxliteos.com/manual/
+Nathan Haines. Nathan Haines. (2015). Beginning Ubuntu for Windows and Mac users (Online resource through
+Library catalogue). Apress. .  ProQuest (Firm). Retrieved 17/11/2020, from
+https://ebookcentral-proquest-com.ezproxy.federation.edu.au/lib/ballarat/reader.action?docID=4178053
+eBook / Online
+Jerry FitzGerald, Alan Dennis, Alexandra Durcikova. (2020). Business Data Communications and Networking,
+14th Edition.  Wiley.
+Note that some material in lectures, assignments and other resources provided to students may contain direct
+quotations from the text book(s) and references listed.
+Sequence
+The following is an approximate  guide to the sequence of topics in this course.
+Week(s) Topic(s)
+1 - 2 Introduction of basic networking concepts and the Internet and OSI models of networking
+3 - 7Individual layers of the Internet model of networking will be investigated. We will discuss
+various protocols and processes on the physical, data link, network, transport, and
+application layers of the Internet model. We will also discuss and analyse the interactions that
+occur between layers of the Internet model. In the lab slot of week 7, students are required to
+practice labs from weeks 2 - 6 to revise the concepts for the mid-semester test.
+8Students will attempt a mid-semester test in week 8. This test will examine the understanding
+of the Internet model of networking. The questions will be based on theoretical and lab
+material covered in weeks 1 - 7.
+9 This week will cover concepts related to mobile and cloud computing.
+10 - 11 These two weeks will cover concepts related to cyber security.
+12 This is the last week. In this week, topics of previous weeks will be reviewed.CRICOS Provider No. 00103D | RTO Code 4909 | TEQSA PRV12151 (Australian University) fdlGrades UD_ITECH1102_2023/072023-08-08 11:39:47 11 /14
+Course Description (Higher Education)
+ITECH1102
+Adopted Reference Style
+APA 7th Edition
+Refer to the library website  for more information
+Fed Cite - referencing toolCRICOS Provider No. 00103D | RTO Code 4909 | TEQSA PRV12151 (Australian University) fdlGrades UD_ITECH1102_2023/072023-08-08 11:39:47 12 /14
+Course Description (Higher Education)
+ITECH1102
+Professional Standards / Competencies:
+Australian Computer Society - Core Body of Knowledge: 2023 accreditation
+Attribute Assessed Level
+Core ICT Knowledge
+ICT Fundamentals
+Computational thinking: situation analysis and modelling using a range of
+methods and patterns to frame it so a computer system could operate
+eﬀectively within itYes Introductory
+History of computing and ICT, drivers of technology evolution and trends
+for the futureYes Introductory
+ICT Infrastructure
+Network and internetwork concepts and protocols, wireless and mobile
+computing, cloud and distributed systemsYes Intermediate
+Systems software and operating systems managing the architectureYes Introductory
+Cyber Security
+Nature of Cyber Security: forms of attack, prevention, detection, mitigation
+and repairYes Introductory
+Information assets to be secured (hardware, networks, software, data) and
+the diﬀerent means of securing them, cryptographyYes Introductory
+Professionalism as it applied in ICT
+Professional ICT Ethics
+Professional ethics issues: general professional issues such as conﬂict of
+interest, conﬁdentialityYes Introductory
+ICT speciﬁc ethics issues: adverse stakeholder impacts of ICT, surveillance
+and privacy, data matching, autonomous computing, digital divide, etc.Yes Introductory
+Impacts of ICT
+Impacts of ICT on society (cyber warfare; surveillance, privacy and civil
+liberties, cybercrime and hacking, digital divide, technology reliance,
+intellectual property and legal issues)Yes Introductory
+Professional CommunicationCRICOS Provider No. 00103D | RTO Code 4909 | TEQSA PRV12151 (Australian University) fdlGrades UD_ITECH1102_2023/072023-08-08 11:39:47 13 /14
+Course Description (Higher Education)
+ITECH1102
+Forms and styles of documentation - technical reports and speciﬁcations,
+progress reportsYes Introductory
+The Professional ICT Practitioner
+Continuing professional development, career upskilling, networkingNo Introductory
+Skills Framework for the Information Age (SFIA): Version 8
+Attribute Assessed Level
+Strategy and architecture
+Strategy and planning
+MEAS Measurement (Levels 3 - 6)
+Developing and operating a measurement capability to support agreed
+organisational information needs.Yes 1
+Security and privacy
+INAS Information assurance (Levels 3 - 7)
+Protecting against and managing risks related to the use, storage and
+transmission of data and information systems.Yes 1
+Development and implementation
+Systems development
+NTDS Network design (Levels 3 - 6)
+Designing communication networks to support strategic and operational
+requirements and producing network strategies, architectures, policies and
+related documentation.Yes 2
+Delivery and operation
+Technology management
+ITOP IT infrastructure (Levels 1 - 5)
+Deploying, conﬁguring and operating IT Infrastructure.Yes 1
+NTAS Network support (Levels 2 - 5)
+Providing maintenance and support services for communications networks.Yes 2
+Security services
+SCAD Security operations (Levels 1 - 6)
+Delivering management, technical and administrative services to
+implement security controls and security management strategies.Yes 1CRICOS Provider No. 00103D | RTO Code 4909 | TEQSA PRV12151 (Australian University) fdlGrades UD_ITECH1102_2023/072023-08-08 11:39:47 14 /14
+Course Description (Higher Education)
+ITECH1102
+VUAS Vulnerability assessment (Levels 2 - 5)
+Identifying and classifying security vulnerabilities in networks, systems and
+applications and mitigating or eliminating their impact.Yes 2
